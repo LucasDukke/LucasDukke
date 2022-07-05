@@ -1,7 +1,7 @@
 ### Alô, Lucas aqui!
 
-- 🔭 Foco hoje no Front-end!
-- 🌱 Estou aprendendo JavaScript, Java, PHP e Nextjs
+- 🔭 Foco!
+- 🌱 100%
 - ⚡ Trivia: Loucura é fazer a mesma coisa esperando um resultado diferente!
 
  <div>
